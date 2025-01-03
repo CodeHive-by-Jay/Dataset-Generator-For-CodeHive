@@ -3,7 +3,6 @@
 ## **Overview**
 This project is a flexible and reusable **Dataset Generator** designed to create synthetic datasets for AI applications. It provides an easy way to generate user data for testing, training, and validating machine learning models. With modular scripts and a testing notebook, this tool enables rapid prototyping of AI workflows without relying on sensitive or proprietary datasets.
 
----
 
 ## **Features**
 - **Synthetic Data Generation**: Creates datasets with realistic names, emails, ages, and cities using the `Faker` library.
@@ -12,7 +11,6 @@ This project is a flexible and reusable **Dataset Generator** designed to create
 - **Data Privacy**: Uses synthetic data to avoid concerns with real-world data sensitivity.
 - **Customization**: Configure the number of records and data fields as per your requirements.
 
----
 
 ## **Project Structure**
 ```
@@ -27,14 +25,13 @@ DatasetGenerator/
 ├── README.md                  # Project description and instructions
 ```
 
----
 
 ## **Setup Instructions**
 
 ### 1. **Clone the Repository**
 ```bash
-$ git clone <repository-url>
-$ cd DatasetGenerator
+$ git clone [<repository-url>](https://github.com/CodeHive-by-Jay/Dataset-Generator-For-CodeHive)
+$ cd Dataset-Generator-For-CodeHive
 ```
 
 ### 2. **Install Dependencies**
@@ -49,7 +46,6 @@ Run the `main.py` script to start the generator:
 $ python main.py
 ```
 
----
 
 ## **How to Use**
 
@@ -63,7 +59,6 @@ $ python main.py
 2. Execute the notebook to generate and inspect the data.
 3. Use the sample data to test machine learning models or preprocessing pipelines.
 
----
 
 ## **AI Use Cases**
 
@@ -83,21 +78,12 @@ $ python main.py
 ### 5. **Federated Learning**
 - Simulate user data from multiple sources for federated learning experiments.
 
----
 
 ## **Customization Options**
 - Modify `generate_users.py` to add new fields or customize data types (e.g., phone numbers, addresses).
 - Extend the project to include datasets for specific domains (e.g., healthcare, finance).
 - Add scripts for generating time-series or categorical data.
 
----
-
-## **Next Steps**
-1. Automate dataset generation for AI pipelines.
-2. Introduce noise and outliers to test model robustness.
-3. Create a GUI for non-technical users to interact with the generator.
-
----
 
 ## **Dependencies**
 - `Python 3.7+`
@@ -105,7 +91,6 @@ $ python main.py
 - `faker`
 - `jupyter`
 
----
 
 ## **Contributing**
 Feel free to fork this repository and submit pull requests for:
@@ -113,12 +98,10 @@ Feel free to fork this repository and submit pull requests for:
 - Optimizing code performance.
 - Expanding AI use cases.
 
----
 
 ## **License**
 This project is licensed under the MIT License.
 
----
 
 ## **Contact**
 For questions or contributions, please reach out to:
