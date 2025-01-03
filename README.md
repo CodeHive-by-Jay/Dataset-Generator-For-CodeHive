@@ -33,7 +33,7 @@ Directory structure:
 
 ### 1. **Clone the Repository**
 ```bash
-$ git clone [<repository-url>](https://github.com/CodeHive-by-Jay/Dataset-Generator-For-CodeHive)
+$ git clone https://github.com/CodeHive-by-Jay/Dataset-Generator-For-CodeHive
 $ cd Dataset-Generator-For-CodeHive
 ```
 
