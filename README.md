@@ -14,15 +14,18 @@ This project is a flexible and reusable **Dataset Generator** designed to create
 
 ## **Project Structure**
 ```
-DatasetGenerator/
-├── data/                      # Directory for storing generated datasets
-├── scripts/                   # Directory for Python scripts
-│   ├── generate_users.py      # Script for generating user data
-├── notebooks/                 # Directory for Jupyter notebooks
-│   ├── generate_and_test.ipynb  # Notebook for testing and exploring the data
-├── main.py                    # Entry point for running the generator
-├── requirements.txt           # List of required Python packages
-├── README.md                  # Project description and instructions
+Directory structure:
+└── CodeHive-by-Jay-Dataset-Generator-For-CodeHive/
+    ├── README.md
+    ├── LICENSE
+    ├── main.py
+    ├── requirements.txt
+    ├── notebooks/
+    │   └── generate_and_test.ipynb
+    └── scripts/
+        ├── generate_images.py
+        ├── generate_time_series.py
+        └── generate_users.py
 ```
 
 
