@@ -122,7 +122,9 @@ This project is licensed under the MIT License.
 
 ## **Contact**
 For questions or contributions, please reach out to:
-- **Name**: Brayan (Jay)
-- **Email**: souopsylvain@gmail.com
-- **GitHub**: [brayanj4y](https://github.com/brayanj4y)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brayan-j4y)  
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/brayanj4y)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:souopsylvain@gmail.com) 
+
 
